@@ -23,7 +23,7 @@ rules:
   
 - action: report
   metadata:
-    author: MyDFIR
+    author: Codot
     description: TEST - Detects Lazagne Usage
     falsepositives:
     - ToTheMoon
