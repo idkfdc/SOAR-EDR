@@ -1,5 +1,4 @@
 
-Lazagne: https://github.com/AlessandroZ/LaZagne
 ```
 events:
   - NEW_PROCESS
